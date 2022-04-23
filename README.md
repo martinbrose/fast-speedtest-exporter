@@ -1,4 +1,4 @@
-# Cloudflare Speedtest Exporter
+# Fast.com Speedtest Exporter
 
 Simple **Speedtest exporter** for **Prometheus** written in **Python** using the
 [**Fast.com** Python CLI from Nathan Henrie](https://github.com/n8henrie/fastcli).
